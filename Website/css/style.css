@@ -1,0 +1,32 @@
+body{
+    background-color: #919998;
+}
+
+#box1 {
+    
+    width: 500px;
+    padding: 100px;
+    background-color: beige;
+    position: absolute;
+    top: 150px;
+    left: 800px;
+    box
+}
+
+#header{
+    Color: #1b3a38;
+    text-align: left;
+    letter-spacing: 0.2em;
+    position: absolute;
+    left: 80px;
+    top: 0px;
+   
+}
+
+@media screen and (max-width:959px){
+    #box1{
+        background-color: black;
+        width: 100%;
+        
+    }
+}
